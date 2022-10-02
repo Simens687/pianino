@@ -1,0 +1,15 @@
+C:\Users\lolke\source\repos\Пианино\Пианино\bin\Debug\net6.0\Пианино.exe
+C:\Users\lolke\source\repos\Пианино\Пианино\bin\Debug\net6.0\Пианино.deps.json
+C:\Users\lolke\source\repos\Пианино\Пианино\bin\Debug\net6.0\Пианино.runtimeconfig.json
+C:\Users\lolke\source\repos\Пианино\Пианино\bin\Debug\net6.0\Пианино.dll
+C:\Users\lolke\source\repos\Пианино\Пианино\bin\Debug\net6.0\Пианино.pdb
+C:\Users\lolke\source\repos\Пианино\Пианино\obj\Debug\net6.0\Пианино.csproj.AssemblyReference.cache
+C:\Users\lolke\source\repos\Пианино\Пианино\obj\Debug\net6.0\Пианино.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolke\source\repos\Пианино\Пианино\obj\Debug\net6.0\Пианино.AssemblyInfoInputs.cache
+C:\Users\lolke\source\repos\Пианино\Пианино\obj\Debug\net6.0\Пианино.AssemblyInfo.cs
+C:\Users\lolke\source\repos\Пианино\Пианино\obj\Debug\net6.0\Пианино.csproj.CoreCompileInputs.cache
+C:\Users\lolke\source\repos\Пианино\Пианино\obj\Debug\net6.0\Пианино.dll
+C:\Users\lolke\source\repos\Пианино\Пианино\obj\Debug\net6.0\refint\Пианино.dll
+C:\Users\lolke\source\repos\Пианино\Пианино\obj\Debug\net6.0\Пианино.pdb
+C:\Users\lolke\source\repos\Пианино\Пианино\obj\Debug\net6.0\Пианино.genruntimeconfig.cache
+C:\Users\lolke\source\repos\Пианино\Пианино\obj\Debug\net6.0\ref\Пианино.dll
